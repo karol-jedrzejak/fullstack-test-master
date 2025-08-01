@@ -1,0 +1,35 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DWbuom_3.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/images/banner.webp": {
+    "file": "assets/banner-BhgDqlLh.webp",
+    "src": "resources/images/banner.webp"
+  },
+  "resources/images/nagroda-1.webp": {
+    "file": "assets/nagroda-1-B-agt6Ik.webp",
+    "src": "resources/images/nagroda-1.webp"
+  },
+  "resources/images/nagroda-2.webp": {
+    "file": "assets/nagroda-2-BZb2F5Am.webp",
+    "src": "resources/images/nagroda-2.webp"
+  },
+  "resources/images/nagroda-3.webp": {
+    "file": "assets/nagroda-3-CaUU3a0K.webp",
+    "src": "resources/images/nagroda-3.webp"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-OJdLb5uC.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-DcBi083l.css"
+    ],
+    "assets": [
+      "assets/banner-BhgDqlLh.webp"
+    ]
+  }
+}
