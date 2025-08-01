@@ -1,2 +1,2 @@
 # fullstack-test
-Zadanie testowe dla fullstack developera dla fimry aboutad
+Zadanie testowe dla fullstack developera dla firmy aboutad
